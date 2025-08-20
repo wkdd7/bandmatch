@@ -230,10 +230,6 @@ MIT License
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 작성자
-
-BandMatch Development Team
-
 ## 감사의 글
 
 - librosa - 오디오 분석 라이브러리
