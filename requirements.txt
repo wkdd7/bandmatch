@@ -1,0 +1,30 @@
+# Core Audio Processing
+numpy>=1.24.0
+scipy>=1.10.0
+librosa>=0.10.0
+soundfile>=0.12.0
+pyloudnorm>=0.1.1
+
+# GUI
+PyQt6>=6.5.0
+PyQt6-Qt6>=6.5.0
+PyQt6-sip>=13.5.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Report Generation
+reportlab>=4.0.0
+Pillow>=10.0.0
+
+# CLI
+click>=8.1.0
+
+# Development & Testing
+pytest>=7.4.0
+pytest-qt>=4.2.0
+black>=23.7.0
+flake8>=6.0.0
+
+# Optional for MP3/FLAC support
+pydub>=0.25.1
